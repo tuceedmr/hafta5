@@ -1,3 +1,6 @@
 5. Hafta
 
-Bu hafta gazetelerin isimleri ve kategorilerle internet adresleri yaptık. Tarihleri bölüp yıl, ay, gün olarak öğrendik. Sonra bu tarihler arasında döngü kurarak linkler hazırladık.
+Bu hafta Python’da listeler ve döngülerle çalıştık.  
+Gazetelerin ve kategorilerin web adreslerini oluşturduk.  
+Tarih bilgisini ayırmayı ve sayı olarak almaya çalıştık.  
+
