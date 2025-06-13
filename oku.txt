@@ -1,0 +1,3 @@
+5. Hafta
+
+Bu hafta gazetelerin isimleri ve kategorilerle internet adresleri yaptık. Tarihleri bölüp yıl, ay, gün olarak öğrendik. Sonra bu tarihler arasında döngü kurarak linkler hazırladık.
