@@ -1,0 +1,5 @@
+Hafta 5 Log:
+
+Listeler ve döngüler kullanıldı.  
+Tarih parçalama yapıldı.  
+URL oluşturma denendi.
